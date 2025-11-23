@@ -46,7 +46,7 @@
 					"id": "@DualSubs.Universal.Settings.Languages[1]",
 					"name": "[字幕] 副语言（目标语言）",
 					"type": "selects",
-					"val": "ZH",
+					"val": "AR",
 					"items": [
 						{ "key": "ZH", "label": "中文（自动）" },
 						{ "key": "ZH-HANS", "label": "中文（简体）" },
